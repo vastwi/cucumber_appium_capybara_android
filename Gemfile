@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+ruby '2.2.3'
+gem 'rspec', '~> 3.4.0'
+gem 'selenium-webdriver', '~> 2.48.1'
+gem 'cucumber', '~> 2.1.0'
+gem 'pry', '~> 0.10.3'
+gem 'byebug', '~> 8.2.1'
+gem 'capybara', '~> 2.5.0'
+gem 'pageify', '~> 0.5.2' #git: 'https://github.com/paramadeep/pageify.git'
+gem 'capybara-screenshot', '~>1.0.11'
